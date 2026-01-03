@@ -1,0 +1,4 @@
+[13:49:58] [Thread-62/INFO]: UUID of player AGENT_RICK is bc418500-966a-3407-af75-d5c7fdc306c3
+[13:49:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@638ec78f[id=bc418500-966a-3407-af75-d5c7fdc306c3,name=AGENT_RICK,properties={},legacy=false] (/152.58.176.125:55925): §cServer is not fully started yet. Please retry
+[13:49:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@638ec78f[id=bc418500-966a-3407-af75-d5c7fdc306c3,name=AGENT_RICK,properties={},legacy=false] (/152.58.176.125:55925): §cServer is not fully started yet. Please retry
+[13:49:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@638ec78f[id=bc418500-966a-3407-af75-d5c7fdc306c3,name=AGENT_RICK,properties={},legacy=false] (/152.58.176.125:55925) lost connection: §cServer is not fully started yet. Please retry
